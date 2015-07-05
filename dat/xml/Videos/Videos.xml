@@ -1,0 +1,6 @@
+<DynamicWeb>
+	<Sections>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="550" flvHeigh="300"  title1="video de fabricacion" title2="para verlo " title3="pulse aqui" thumb="dat/Images/Folio/thumb4.jpg"/>
+		
+	</Sections>
+</DynamicWeb>

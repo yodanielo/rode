@@ -1,0 +1,11 @@
+<!--
+
+autoStart="no"
+autoStart="yes"
+autoStart="random"
+
+-->
+<player autoStart="yes">
+   	<song path="dat/Music/music.mp3" />   
+     	<song path="dat/Music/music.mp3"/>
+</player>

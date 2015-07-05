@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rode>
+    <empresa>
+        <fundada></fundada>
+        <proyecto></proyecto>
+        <campanias></campanias>
+        <aislaglass></aislaglass>
+    </empresa>
+    <futuro>
+        <excepteur></excepteur>
+        <consectetur></consectetur>
+        <adipisicing></adipisicing>
+        <commodo></commodo>
+    </futuro>
+    <fotos>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+        <foto>
+            <resumen titulo="" subtitulo="" miniatura="" />
+            <galerias>
+                <img src="http://www.mueblescook.com.mx/puertas/vidrios_softsquareG.jpg" />
+                <img src="http://www.abaservicechile.cl/hidrolavado-limpieza-de-vidrios-y-mas/" />
+                <img src="http://www.construible.es/images/productos/070116_vitro_pyroglass-1.gif" />
+            </galerias>
+            <texto>
+                <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et viverra urna. Duis iaculis eros quis risus suscipit non dictum odio posuere. Donec sodales dapibus tincidunt. Curabitur sit amet odio vel ligula mollis pulvinar vitae a diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur felis felis, sollicitudin eget dapibus sit amet, facilisis vitae nulla. Vivamus non egestas metus. Mauris sed egestas mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan dapibus ipsum nec convallis. Proin bibendum fermentum eros rhoncus auctor. Fusce vestibulum vulputate magna, sed accumsan lectus adipiscing at. Praesent sit amet augue lorem, at suscipit est. Mauris scelerisque placerat feugiat. Etiam accumsan justo tellus. Proin accumsan fringilla semper. Duis sagittis felis eu orci egestas fringilla. Donec augue lacus, iaculis vitae condimentum id, ultrices sit amet magna. Cras varius odio aliquet est tempor fringilla.</p>
+                <p>Morbi ac nisl sed orci pulvinar blandit nec nec sapien. Suspendisse felis nisi, ultrices id sollicitudin nec, volutpat at odio. Aenean pharetra, nibh eget dapibus adipiscing, libero ipsum consectetur neque, vel sollicitudin ipsum arcu eu justo. Fusce interdum pellentesque cursus. Maecenas eleifend pellentesque dolor, eget viverra magna venenatis vel. Morbi massa massa, viverra ac semper quis, euismod sit amet risus. Maecenas convallis magna sit amet odio mattis sodales. Suspendisse euismod, nibh porta posuere luctus, enim diam auctor quam, quis porttitor lectus urna vitae purus. Vestibulum a ipsum quis eros laoreet consectetur. Suspendisse potenti. Nulla fringilla erat id elit molestie tincidunt. Vivamus ac nibh id mi blandit tempus.</p>
+                <p>Aliquam erat volutpat. Quisque non ullamcorper nulla. Maecenas ornare, tellus sit amet dignissim rhoncus, magna odio aliquet ipsum, non convallis lectus nunc quis nulla. Donec hendrerit, magna id elementum blandit, elit lorem mollis lorem, vel convallis erat felis ut dolor. Cras augue massa, accumsan et ultrices eu, consectetur et tortor. Donec bibendum justo vel dui ultrices iaculis lacinia nisi porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer turpis dolor, mollis id condimentum et, ultricies vel libero. Nulla id diam dui. Integer iaculis faucibus ipsum. Pellentesque rhoncus, eros in lacinia aliquet, purus tortor convallis lorem, ut lacinia ipsum neque sed nulla. Aenean tristique sapien eu tortor rhoncus cursus. Ut quis nulla pulvinar ante blandit elementum.</p>
+                ]]>
+            </texto>
+        </foto>
+    </fotos>
+    <videos>
+        <video titulo="" subtitulo="" miniatura="" url="" />
+        <video titulo="" subtitulo="" miniatura="" url="" />
+        <video titulo="" subtitulo="" miniatura="" url="" />
+    </video>
+</rode>

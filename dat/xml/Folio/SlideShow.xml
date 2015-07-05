@@ -1,0 +1,8 @@
+﻿<DynamicWeb>
+	<Sections>
+		<data img="dat/Images/Folio/SlideShow/img2.jpg"/>
+		<data img="dat/Images/Folio/SlideShow/img3.jpg"/>
+                <data img="dat/Images/Folio/SlideShow/img4.jpg"/>
+             
+	</Sections>
+</DynamicWeb>

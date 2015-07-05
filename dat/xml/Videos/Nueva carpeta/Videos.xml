@@ -1,0 +1,28 @@
+﻿<DynamicWeb>
+	<Sections>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="550" flvHeigh="300"  title1="video de fabricacion" title2="para verlo " title3="pulse aqui" thumb="dat/Images/Folio/thumb4.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="600"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="consectetur adipisicing" title2="eiusmod tempor" title3="magna" thumb="dat/Images/Folio/thumb1.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="400"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb4.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="consectetur adipisicing" title2="eiusmod tempor" title3="magna" thumb="dat/Images/Folio/thumb1.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="400"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb4.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="consectetur adipisicing" title2="eiusmod tempor" title3="magna" thumb="dat/Images/Folio/thumb1.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="400"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb4.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="consectetur adipisicing" title2="eiusmod tempor" title3="magna" thumb="dat/Images/Folio/thumb1.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="400"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb4.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="consectetur adipisicing" title2="eiusmod tempor" title3="magna" thumb="dat/Images/Folio/thumb1.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="750" flvHeigh="300"  title1="voluptatem accusantium" title2="voluptatem" title3="numquam" thumb="dat/Images/Folio/thumb2.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="700" flvHeigh="400"  title1="nostrum exercitationem" title2="consectetur" title3="quisquam" thumb="dat/Images/Folio/thumb3.jpg"/>
+		<data flvPath="dat/Videos/movie.flv" flvWidth="400" flvHeigh="300"  title1="dolorem eum" title2="magnam aliquam" title3="tempora" thumb="dat/Images/Folio/thumb4.jpg"/>
+	</Sections>
+</DynamicWeb>

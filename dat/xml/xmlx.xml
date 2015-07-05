@@ -1,0 +1,61 @@
+<DynamicWeb>
+
+<!--
+p=15 about
+p=25 folio
+p=35 video
+p=45 contact
+-->
+
+	<Sections id="menu">
+		<Media btnName="INICIO" btnClr="990000"/>
+		<Media typex="media" path="null" widthx="10"/>
+		<Media typex="media" path="dat/Images/Slide/img.png" widthx="893" ypos=""/>
+		<!-- == -->
+		<Menu typex="section" p="15" f="About" css="about" btnName="EMPRESA" btnClr="542659" bgClr="333333"/>
+		<Media typex="media" path="dat/Images/Home/globe.png" widthx="180" ypos="-90"/>
+		<Media typex="media" path="null" widthx="270"/>
+
+		<!-- == -->
+		<Menu typex="section" p="15" f="News" css="News" btnName="FUTURO" btnClr="F35C0E" bgClr="4D5144"/>
+		<Media typex="media" path="dat/Images/Home/mov1.swf" widthx="60" ypos="120"/>
+		<Media typex="media" path="null" widthx="675"/>
+
+		<!-- == -->
+		<Menu typex="section" p="25" f="Folio" css="folio" btnName="FOTOS" btnClr="54A11A" bgClr="6D6658"/>
+		<Media typex="media" path="null" widthx="100"/>
+		<Media typex="media" path="dat/Images/Slide/butterfly.swf" widthx="160" ypos="40"/>
+		<Media typex="media" path="null" widthx="200"/>
+		<Media typex="media" path="dat/Images/Slide/img2.png" widthx="750" ypos="-30"/>
+		<Media typex="media" path="null" widthx="400"/>
+		<!-- == -->
+		<Media typex="media" path="null" widthx="-160"/>
+		<Menu typex="section" p="45" f="" css="contact" btnName="CONTACTO" btnClr="0048D6" bgClr="444444"/>
+		<Media typex="media" path="null" widthx="0"/>
+		<Media typex="media" path="dat/Images/Home/img1.png" widthx="240" ypos="80"/>
+		<Media typex="media" path="dat/Images/Home/contact.png" widthx="200" ypos="160"/>
+		<Media typex="media" path="null" widthx="160"/>
+	</Sections>
+<!-- ============================================================= -->
+	<Sections id="logo">
+		<data iconx="dat/Images/Home/pic.png"></data>
+	</Sections>
+<!-- ============================================================= -->
+	<Sections id="assets">
+		<home txt="  RODE" bgClr="222222" txt2="            Visita nuestras fotos y videos y no dudes en contactar  ">
+			<img path="dat/Images/Home/man.png" xpos="-60" ypos="170"/>
+			<img path="dat/Images/Home/img4.png" xpos="580" ypos="62"/>
+			<img path="dat/Images/Home/mov3.swf" xpos="280" ypos="-90"/>
+		</home>
+	</Sections>
+<!-- ============================================================= -->
+	<Sections id="contact">
+		<data titlex="contact title">CRISTALERIA RODE S.L<br /><a target="_blank" href="http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=calle+malaga+7+valdemoro+Madrid&sll=40.396764,-3.713379&sspn=23.252425,57.084961&ie=UTF8&hq=&hnear=Calle+de+M%C3%A1laga,+7,+28343+Valdemoro,+Madrid,+Comunidad+de+Madrid&ll=40.166228,-3.660271&spn=0.002956,0.006968&z=18">CALLE MALAGA 7 NAVE 21<br />VALDEMORO MADRID</a> <br /><br /><br /><font color='#CCCCCC'>CORREO ELECTRONICO</font><br /><a href="mailto:eloy@romeralo.com">eloy@romeralo.com</a><br /><br /><br /><font color='#CCCCCC'>TELEFONO</font><br />91 876 20 90</data>
+	    <data titlex="contact title"><br /><font color='#CCCCCC'>FAX</font><br />91 876 20 91<br/><br/><font color='#CCCCCC'>C.P.:</font><br />28343<br/></data>
+	</Sections>
+<!-- ============================================================= -->
+	<Sections id="copy">
+		<data>(C) 2010 CRISTALERIA RODE SL.</data>
+	</Sections>
+	
+</DynamicWeb>

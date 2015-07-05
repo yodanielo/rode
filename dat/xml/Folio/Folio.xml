@@ -1,0 +1,9 @@
+<DynamicWeb>
+    <Sections>
+        <data f="gallery1" title1="VIDRIO TEMPLADO" title2="" title3="pinche aqui" thumb="dat/Images/Folio/thumb3.jpg"/>
+        <data f="gallery1" title1="VIDRIO COLADO" title2="" title3="pinche aqui" thumb="dat/Images/Folio/thumb1.jpg"/>
+        <data f="gallery2" title1="VIDRIO 3" title2="pendiente" title3="pinche aqui" thumb="dat/Images/Folio/thumb2.jpg"/>
+        <data f="gallery2" title1="VIDRIO 4" title2="pendiente" title3="pinche aqui" thumb="dat/Images/Folio/thumb4.jpg"/>
+    </Sections>
+    <youtube icon="dat/Images/Slide/youtube.png" src="http://www.youtube.com/watch?v=IAFfhyD-JzE"/>
+</DynamicWeb>
